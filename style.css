@@ -3,10 +3,16 @@
 header { 
     width: vw;
     height: 100px;
-    background-color:white ;
+    background-color:rgb(8, 53, 11) ;
 }
 
 .logo {
- width: 50px;
- height: 50px;
+ width: 100px;
+ height: 100px;
+}
+
+.imagem {
+width: 500px;
+height: 500px;
+
 }
